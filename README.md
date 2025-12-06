@@ -36,7 +36,8 @@
   <div class="container">
     <header>
       <h1>Base de Datos Noticias (2010-2025)</h1>
-      <p class="small">Inundaciones en Cartago, base de datos de noticias y visualización de distribución por año (2010–2025).</p>
+      <p class="small">Inundaciones en Cartago, base de datos de noticias y visualización de distribución por año (2010–2025)
+        presionar la opcion "cargar google sheets".</p>
     </header>
 
     <div class="grid">
